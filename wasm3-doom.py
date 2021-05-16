@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
 import os, sys, struct, time, io, inspect
-import urllib.request
 import wasm3
 import numpy
 
