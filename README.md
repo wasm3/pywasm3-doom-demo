@@ -1,5 +1,5 @@
 # pywasm3-doom-demo
-WebAssembly (WASI) DOOM demo
+WebAssembly (WASI) [DOOM demo](https://twitter.com/wasm3_engine/status/1393588527863144450)
 
 ## Run
 ```sh
