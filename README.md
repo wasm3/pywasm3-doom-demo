@@ -7,6 +7,15 @@ pip3 install -r pip-requirements.txt
 python3 wasm3-doom.py
 ```
 
+## Features
+
+- [x] `WASI` layer implementation
+- [x] Virtual file system
+- [x] Indexed color buffer display using `PyGame` and `NumPy`
+- [ ] Keyboard input
+- [ ] Mouse input
+- [ ] Audio
+
 ## Licenses and sources
 
 [DOOM Open Source Release](https://github.com/id-Software/DOOM) is used to produce `wasidoom.wasm`.
